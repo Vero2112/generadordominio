@@ -11,7 +11,7 @@ window.onload = function() {
   var pronoun = ["the", "our"];
   var adj = ["great", "big"];
   var noun = ["jogger", "racoon"];
-  var dominio = ["com", ".net", ".us", ".io"];
+  var dominio = [".com", ".net", ".us", ".io"];
 
   let sumadestrings = "";
   let pronombrealeatorio = Math.floor(Math.random() * 2);
